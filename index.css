@@ -1,0 +1,62 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+form {
+  border-radius: 15px;
+  outline: #520670 solid 3px;
+
+  padding: 8px;
+  background-color: #7061cb;
+  align-items: center;
+  color: white;
+  width: 865px;
+  margin: auto;
+  border: #574b99;
+  margin-left: auto;
+}
+h1 {
+  color: #8b7de4;
+  text-align: center;
+}
+div {
+  align-content: center;
+  text-align: center;
+}
+
+#table {
+  margin-top: -20px;
+  margin-left: 180px;
+}
+
+#firstname,
+#lastname,
+#dob,
+#email,
+#number,
+#city,
+#pincode,
+#state,
+#country,
+#others {
+  width: 350px;
+}
+
+#address {
+  height: 60px;
+  width: 300px;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+}
+
+tr {
+  align-items: center;
+}
+
+button a {
+  color: black;
+}
