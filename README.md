@@ -1,7 +1,3 @@
-Here's the text formatted as a proper README file for GitHub:
-
----
-
 # Saylani Registration Form
 
 This project is a simple registration form for Saylani, built using HTML and CSS. The form is designed to collect user information in a structured and user-friendly manner.
